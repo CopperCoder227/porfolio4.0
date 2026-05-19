@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Sweets By Sammy</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="hayley.css">
+  <!-- Bootstrap CSS v5.2.1 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+  <link rel="shortcut icon" href="imgs/logo.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="video-background">
+    <video id="backgroundVideo" autoplay muted loop playsinline src="videos/Galaxy-Purple.mp4"></video>
+  </div>
+  <div class="content-overlay">
+    <nav class="top-nav">
+      <div class="top-nav-links">
+        <a href="#home">Home</a>
+        <div class="dropdown">
+          <a href="#" class="dropdown-toggle" onclick="event.preventDefault();">About</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#about">Me</a>
+            <a class="dropdown-item" href="#future">Future</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a href="websites.html" class="dropdown-toggle">Websites</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="websites.html#web1">Soph</a>
+            <a class="dropdown-item" href="websites.html#web2">Jr</a>
+            <a class="dropdown-item" href="websites.html#web3">Sr</a>
+            <a class="dropdown-item disabled" href="#" onclick="event.preventDefault();">Favos</a>
+          </div>
+        </div>
+      </div>
+      <a class="top-nav-social" href="https://www.instagram.com/sweetsbysammy_/" target="_blank"
+        rel="noopener noreferrer" aria-label="Instagram">
+        <svg class="instagram-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M12 2.163c3.204 0 3.584.012 4.85.069 1.366.062 2.633.337 3.608 1.312.975.975 1.25 2.242 1.312 3.608.057 1.266.069 1.646.069 4.85s-.012 3.584-.069 4.85c-.062 1.366-.337 2.633-1.312 3.608-.975.975-2.242 1.25-3.608 1.312-1.266.057-1.646.069-4.85.069s-3.584-.012-4.85-.069c-1.366-.062-2.633-.337-3.608-1.312-.975-.975-1.25-2.242-1.312-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.069-4.85c.062-1.366.337-2.633 1.312-3.608.975-.975 2.242-1.25 3.608-1.312C8.416 2.175 8.796 2.163 12 2.163zm0 1.838c-3.182 0-3.558.011-4.812.069-1.064.048-1.644.219-2.028.365-.503.207-.862.455-1.239.832-.377.377-.625.736-.832 1.239-.146.384-.317.964-.365 2.028-.058 1.254-.069 1.63-.069 4.812s.011 3.558.069 4.812c.048 1.064.219 1.644.365 2.028.207.503.455.862.832 1.239.377.377.736.625 1.239.832.384.146.964.317 2.028.365 1.254.058 1.63.069 4.812.069s3.558-.011 4.812-.069c1.064-.048 1.644-.219 2.028-.365.503-.207.862-.455 1.239-.832.377-.377.625-.736.832-1.239.146-.384.317-.964.365-2.028.058-1.254.069-1.63.069-4.812s-.011-3.558-.069-4.812c-.048-1.064-.219-1.644-.365-2.028-.207-.503-.455-.862-.832-1.239-.377-.377-.736-.625-1.239-.832-.384-.146-.964-.317-2.028-.365-1.254-.058-1.63-.069-4.812-.069zm0 4.838a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.838a3.162 3.162 0 1 0 0 6.324 3.162 3.162 0 0 0 0-6.324zm6.406-2.2a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4z" />
+        </svg>
+      </a>
+    </nav>
+
+    <header id="home" class="page-header">
+      <div class="banner-text float-animate-trigger">
+        <h1 class="text-dark mb-0">Cooper Steiner
+          <br>
+          Coding through the years!
+        </h1>
+      </div>
+    </header>
+
+    <section id="about" class="about-section float-animate-trigger">
+      <div class="about-container">
+        <!-- Carousel on left -->
+        <div class="about-carousel-wrapper">
+          <div id="aboutCarousel" class="about-carousel">
+            <div class="carousel-slides">
+              <img src="imgs/Cooper/Commit.jpeg" alt="Portfolio slide 1" class="carousel-slide">
+              <img src="imgs/Cooper/CookieRun.jpeg" alt="Portfolio slide 2" class="carousel-slide">
+              <img src="imgs/Cooper/Cutsey.jpg" alt="Portfolio slide 3" class="carousel-slide">
+              <img src="imgs/Cooper/MeanGirls.JPG" alt="Portfolio slide 4" class="carousel-slide">
+              <img src="imgs/Cooper/Train.jpeg" alt="Portfolio slide 5" class="carousel-slide">
+            </div>
+            <!-- Carousel dots -->
+            <div class="carousel-dots">
+              <span class="dot active" data-slide="0"></span>
+              <span class="dot" data-slide="1"></span>
+              <span class="dot" data-slide="2"></span>
+              <span class="dot" data-slide="3"></span>
+              <span class="dot" data-slide="4"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Content on right -->
+        <div class="about-content">
+          <h2 class="about-title">About</h2>
+          <div class="about-name">Cooper Steiner</div>
+          <div class="about-bio">
+            <h6><b>Hello!</b>
+              <br>
+              My name is Cooper Steiner, and im currently a Senior (12th Grade) at Marlboro Highschool!
+              <br>
+              Through the "Web Design Pathway" i have learned a lot about coding. This website - my porfolio if you will
+              -
+              is a hous for all the projects ive made during my time as a code in highschool!
+              <br>
+              feel free to click all links to see my progress through the years, and explore all the different website
+              variants i have to offer!
+              <br>
+              <b>Happy Coding!!</b>
+          </div>
+          </h6>
+
+        </div>
+      </div>
+    </section>
+
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <section id="future" class="future-section float-animate-trigger">
+      <div class="future-container">
+
+        <!-- Carousel on right -->
+        <div class="future-carousel-wrapper">
+          <div id="futureCarousel" class="future-carousel">
+            <div class="carousel-slides">
+              <img src="imgs/College/Beth.jpeg" alt="Future slide 1" class="carousel-slide">
+              <img src="imgs/College/Bottle.jpeg" alt="Future slide 2" class="carousel-slide">
+              <img src="imgs/College/Commit.jpeg" alt="Future slide 3" class="carousel-slide">
+              <img src="imgs/College/Sitting.jpg" alt="Future slide 4" class="carousel-slide">
+              <img src="imgs/Cooper/Train.jpeg" alt="Future slide 5" class="carousel-slide">
+            </div>
+            <!-- Carousel dots -->
+            <div class="carousel-dots">
+              <span class="dot active" data-slide="0"></span>
+              <span class="dot" data-slide="1"></span>
+              <span class="dot" data-slide="2"></span>
+              <span class="dot" data-slide="3"></span>
+              <span class="dot" data-slide="4"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Content on left -->
+        <div class="future-content">
+          <h2 class="future-title">My Future At:</h2>
+          <div class="future-name">Ithaca College</div>
+          <div class="future-bio">
+            <h6><b>Looking Ahead!</b>
+              <br>
+              Starting this fall, I will be attending Ithaca College in upstate New York!
+              <br>
+              Once there, I will begin learning about fil, and the aspects of rising the ranks to eventualy become a
+              director.
+              <br>
+              As excited as I am to be starting, I do admit there is a part of me sad to leave the schoolI've known for
+              four years.<br>
+              However, I am excited to start this new chapter in my life, and I cant wait to make new friends and
+              discover new passions!<br>
+              <b>Onward to Ithaca!!</b>
+          </div>
+        </div>
+        </h6>
+
+      </div>
+
+  </div>
+  </section>
+
+
+
+  <div class="container">
+    <p>&copy; 2026 SweetBySam Bakery</p>
+    <p>
+      <a href="https://www.instagram.com/sweetsbysammy_?igsh=MWN1c3ZvaTRtd3Jxdw%3D%3D&utm_source=qr"
+        target="_blank">Instagram</a> |
+      <a href="https://www.facebook.com/share/1EEDiZhzp2/?mibextid=wwXIfr&hpir=1&http_ref=eyJ0cyI6MTc3NTU3NTM2MzAwMCwiciI6IiJ9"
+        target="_blank">Facebook</a> |
+      <a href="index.html">Home</a> |
+      <a href="insta.html">Creations</a> |
+      <a href="buy.html">Purchase</a>
+    </p>
+  </div>
+  </footer>
+  </div>
+
+  <!-- Bootstrap JavaScript Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+
+  <!-- Back to Top Button -->
+  <button id="backToTopBtn" class="back-to-top">↑</button>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+  <script>
+    // Handle dropdown hover with 5-second auto-close
+    const dropdowns = document.querySelectorAll('.top-nav-links .dropdown');
+
+    dropdowns.forEach(dropdown => {
+      let hideTimer = null;
+      const menu = dropdown.querySelector('.dropdown-menu');
+      const links = menu.querySelectorAll('a');
+
+      dropdown.addEventListener('mouseenter', () => {
+        clearTimeout(hideTimer);
+        menu.style.display = 'block';
+
+        // Auto-close after 5 seconds
+        hideTimer = setTimeout(() => {
+          menu.style.display = 'none';
+        }, 5000);
+      });
+
+      dropdown.addEventListener('mouseleave', () => {
+        clearTimeout(hideTimer);
+      });
+
+      // Close menu when a link is clicked
+      links.forEach(link => {
+        link.addEventListener('click', () => {
+          menu.style.display = 'none';
+          clearTimeout(hideTimer);
+        });
+      });
+    });
+  </script>
+  <script src="script.js"></script>
+</body>
+
+</html>
