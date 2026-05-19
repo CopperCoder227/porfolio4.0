@@ -1,26 +1,3 @@
-// ── YouTube IFrame API for Background Video ─────────────────────────────────────────────────
-
-let player;
-
-function onYouTubeIframeAPIReady() {
-    player = new YT.Player('backgroundVideo', {
-        events: {
-            'onReady': onPlayerReady
-        }
-    });
-}
-
-function onPlayerReady(event) {
-    // Set playback rate to 0.85x (15% slower)
-    event.target.setPlaybackRate(0.85);
-}
-
-// Load YouTube IFrame API
-const tag = document.createElement('script');
-tag.src = 'https://www.youtube.com/iframe_api';
-const firstScriptTag = document.getElementsByTagName('script')[0];
-firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
 document.addEventListener('DOMContentLoaded', () => {
     // ── Scroll Animation Observer ──────────────────────────────────────────
     const observerOptions = {
