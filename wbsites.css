@@ -48,6 +48,8 @@ nav.top-nav {
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .video-bg,
@@ -99,6 +101,21 @@ nav.top-nav {
     margin: 0;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+}
+
+
+.hero-block h6,
+.section-label h6 {
+    font-size: clamp(1.6rem, 2.8vw, 2.4rem);
+    line-height: 1.35;
+    color: #f3f7ff;
+    margin-top: 16px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+.section-label h6 {
+    letter-spacing: 0.04em;
 }
 
 .cards-container {
@@ -323,6 +340,7 @@ body * {
 @media (max-width: 560px) {
     .parallax-container {
         min-height: 60vh;
+
     }
 
     .hero-block h1,
