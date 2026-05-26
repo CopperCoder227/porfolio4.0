@@ -5,7 +5,7 @@
             "Basic.png"
         ],
         "bio": "Introductory web development project demonstrating basic HTML structure and formatting.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/InsubstantialImpoliteText"
     },
     {
         "name": "Our Solar System Website",
@@ -16,7 +16,7 @@
             "Planet4.png"
         ],
         "bio": "Interactive solar system explorer with detailed information about each planet.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/Planets"
     },
     {
         "name": "Let's Go Camping!",
@@ -43,7 +43,7 @@
         "link": "#"
     },
     {
-        "name": "Halloween Movie",
+        "name": "Halloween Movie Recommendations!",
         "images": [
             "nope.png"
         ],
@@ -51,7 +51,15 @@
         "link": "#"
     },
     {
-        "name": "Nav Bar",
+        "name": "Divs & Gradients",
+        "images": [
+            "nope.png"
+        ],
+        "bio": "Experimentation with CSS div layouts and gradient effects.",
+        "link": "#"
+    },
+    {
+        "name": "How to... (Nav-Bar Partner Project",
         "images": [
             "nope.png"
         ],
@@ -83,7 +91,7 @@
         "link": "#"
     },
     {
-        "name": "First 10 Elements",
+        "name": "The First 10 Elements - Animated Study Guide",
         "images": [
             "nope.png"
         ],
@@ -91,19 +99,11 @@
         "link": "#"
     },
     {
-        "name": "Puppies",
+        "name": "Puppies!",
         "images": [
             "nope.png"
         ],
         "bio": "Cute pet themed webpage with image galleries and playful styling.",
-        "link": "#"
-    },
-    {
-        "name": "Farmers Market",
-        "images": [
-            "MFarmMarket.png"
-        ],
-        "bio": "Local farm market website with product listings and farmer information.",
         "link": "#"
     },
     {
@@ -117,10 +117,18 @@
             "Pokemon5.png"
         ],
         "bio": "Tribute webpage dedicated to a featured designer with visual-focused layouts.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/Satoshi-Tajiri-Project"
     },
     {
-        "name": "Vacation",
+        "name": "Farmers Market",
+        "images": [
+            "MFarmMarket.png"
+        ],
+        "bio": "Local farm market website with product listings and farmer information.",
+        "link": "https://replit.com/@CooperSteiner1/farmers-market"
+    },
+    {
+        "name": "Vacation Destination Bootstrap Website  ",
         "images": [
             "Paris.png",
             "Paris2.png",
@@ -132,19 +140,19 @@
             "Paris8.png"
         ],
         "bio": "Travel inspired project showcasing destinations, activities, and vacation planning ideas.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/Place"
     },
     {
-        "name": "Album Covers",
+        "name": "My Favorite Album Covers",
         "images": [
             "Music.png",
             "Music2.png"
         ],
         "bio": "Creative gallery project displaying custom album cover artwork and typography experiments.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/Music-Album"
     },
     {
-        "name": "Coffee Shop",
+        "name": "Coffee Shop Website",
         "images": [
             "BroadwayBrew.png",
             "BroadwayBrew2.png",
@@ -153,16 +161,16 @@
             "BroadwayBrew5.png"
         ],
         "bio": "A vibrant coffeehouse website designed with Broadway flair. Features menu displays and interactive reservations.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/The-Broadway-Cafe"
     },
     {
-        "name": "Cancer Thing",
+        "name": "Global Cancer Disparities Initiative:  Tri-Fold Brochure & Website",
         "images": [
             "MSKCC.png",
             "MSKCC2.png",
             "MSKCC3.png"
         ],
         "bio": "Memorial Sloan Kettering Cancer Center website redesign with modern healthcare UI.",
-        "link": "#"
+        "link": "https://replit.com/@CooperSteiner1/MSKCancerCenter"
     }
 ]
