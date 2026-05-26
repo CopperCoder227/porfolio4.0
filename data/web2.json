@@ -1,50 +1,22 @@
 [
     {
-        "name": "Rock Paper Scissors",
+        "name": "'Summer-tainment' Website",
         "images": [
-            "RPS.png",
-            "RPS2.png",
-            "RPS3.png"
+            "Summer-tainment.png"
         ],
-        "bio": "Interactive game implementation with player vs computer gameplay and score tracking.",
-        "link": "#"
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/Summer-Tainment-Cite/"
     },
     {
-        "name": "To-Do List",
+        "name": "Monthly Website Gallery",
         "images": [
-            "ToDo.png",
-            "ToDo2.png"
+            "Monthly.png"
         ],
-        "bio": "Functional task management application with add, delete, and mark-complete features.",
-        "link": "#"
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/MonthlyWebsiteGallery/"
     },
     {
-        "name": "Kirby Game",
-        "images": [
-            "Kirby.png",
-            "Kirby2.png",
-            "Kirby3.png",
-            "Kirby4.png",
-            "Kirby5.png"
-        ],
-        "bio": "Kirby-themed web game with interactive gameplay and sound effects.",
-        "link": "#"
-    },
-    {
-        "name": "Presidential Election",
-        "images": [
-            "Presidental.png",
-            "Presidental2.png",
-            "Presidental3.png",
-            "Presidental4.png",
-            "Presidental5.png",
-            "Presidental6.png"
-        ],
-        "bio": "Educational resource comparing presidential election data and historical information.",
-        "link": "#"
-    },
-    {
-        "name": "Famous Landmarks",
+        "name": "Look Ma, I'm FAMOUS!",
         "images": [
             "Famous.png",
             "Famous2.png",
@@ -52,36 +24,22 @@
             "Famous4.png"
         ],
         "bio": "Gallery showcasing world-famous landmarks with photos, locations, and historical context.",
-        "link": "#"
+        "link": "https://coppercoder227.github.io/FamousWebsite/"
     },
     {
-        "name": "Postcard Creator",
+        "name": "Halloween Animation",
         "images": [
-            "Postcard.png"
+            "HW-Ghost-ACT.png",
+            "HW-Ghost.png",
+            "HW-Pump-ACT.png",
+            "HW-Pump.png",
+            "HW-Spidr.png"
         ],
-        "bio": "Tool to design and customize digital postcards with personal messages.",
-        "link": "#"
+        "bio": "Gallery showcasing world-famous landmarks with photos, locations, and historical context.",
+        "link": "https://coppercoder227.github.io/HolloweenPumpkin/"
     },
     {
-        "name": "Random Name Generator",
-        "images": [
-            "Name.png",
-            "Name-Generated.png"
-        ],
-        "bio": "Generate random names with customizable options for different cultures and styles.",
-        "link": "#"
-    },
-    {
-        "name": "State Explorer",
-        "images": [
-            "State.png",
-            "State2.png"
-        ],
-        "bio": "Interactive map and information guide for all 50 US states and territories.",
-        "link": "#"
-    },
-    {
-        "name": "Story Generator",
+        "name": "'Word Salad' JavaScript Mad Libs Website",
         "images": [
             "Story.png",
             "Story2.png",
@@ -93,16 +51,129 @@
             "Story8.png"
         ],
         "bio": "Creative writing tool that generates story ideas and plot suggestions.",
-        "link": "#"
+        "link": "https://coppercoder227.github.io/Mad-LibWebsite/"
     },
     {
-        "name": "Meme Collection",
+        "name": "Magic8Ball App",
         "images": [
             "Meme.png",
             "Meme2.png",
             "Meme3.png"
         ],
         "bio": "Collection and sharing platform for popular internet memes and funny content.",
-        "link": "#"
+        "link": "https://coppercoder227.github.io/Magic8Ball/"
+    },
+    {
+        "name": "'What's my name?' Generator Website",
+        "images": [
+            "Name.png",
+            "Name-Generated.png"
+        ],
+        "bio": "Generate random names with customizable options for different cultures and styles.",
+        "link": "https://coppercoder227.github.io/NameGen/"
+    },
+    {
+        "name": "'Rock Paper Scissors' Website",
+        "images": [
+            "RPS.png",
+            "RPS2.png",
+            "RPS3.png"
+        ],
+        "bio": "Interactive game implementation with player vs computer gameplay and score tracking.",
+        "link": "https://coppercoder227.github.io/RPS/"
+    },
+    {
+        "name": "Practice With Array's: 'Random Testimonial'",
+        "images": [
+            "RandomTest.png"
+        ],
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/Random-Testimonial/"
+    },
+    {
+        "name": "Postcard Generator",
+        "images": [
+            "Postcard.png"
+        ],
+        "bio": "Tool to design and customize digital postcards with personal messages.",
+        "link": "https://coppercoder227.github.io/Postcard-Generator/"
+    },
+    {
+        "name": "Presidential Biography Website",
+        "images": [
+            "Presidental.png",
+            "Presidental2.png",
+            "Presidental3.png",
+            "Presidental4.png",
+            "Presidental5.png",
+            "Presidental6.png"
+        ],
+        "bio": "Educational resource comparing presidential election data and historical information.",
+        "link": "https://coppercoder227.github.io/PresidentialBiography-main/"
+    },
+    {
+        "name": "To Do list Customization",
+        "images": [
+            "ToDo.png",
+            "ToDo2.png"
+        ],
+        "bio": "Functional task management application with add, delete, and mark-complete features.",
+        "link": "https://coppercoder227.github.io/ToDoList/"
+    },
+    {
+        "name": "'Lucky Guess'  JS Hangman Game",
+        "images": [
+            "Hang.png",
+            "Hang2.png",
+            "Hang3.png"
+        ],
+        "bio": "Interactive hangman game with word guessing and scoring.",
+        "link": "https://coppercoder227.github.io/Hangman/"
+    },
+    {
+        "name": "'April Wildcard Website' Project",
+        "images": [
+            "Wildcard.png",
+            "Wildcard2.png",
+            "Wildcard3.png",
+            "Wildcard4.png",
+            "Wildcard5.png",
+            "Wildcard6.png"
+        ],
+        "bio": "____",
+        "link": "https://coppercoder227.github.io/Wildcard/"
+    },
+    {
+        "name": "StateFacts Tutorial",
+        "images": [
+            "State.png",
+            "State2.png"
+        ],
+        "bio": "Interactive map and information guide for all 50 US states and territories.",
+        "link": "https://coppercoder227.github.io/State-Facts-Objects-Practice/"
+    },
+    {
+        "name": "'Team-work makes the Dream-work'",
+        "images": [
+            "Kirby.png",
+            "Kirby2.png",
+            "Kirby3.png",
+            "Kirby4.png",
+            "Kirby5.png"
+        ],
+        "bio": "Kirby-themed web game with interactive gameplay and sound effects.",
+        "link": "https://coppercoder227.github.io/Team/"
+    },
+    {
+        "name": "Little Bird Toy Company'",
+        "images": [
+            "ToyBird.png",
+            "ToyBird2.png",
+            "ToyBird3.png",
+            "ToyBird4.png",
+            "ToyBird5.png"
+        ],
+        "bio": "_____",
+        "link": "_____"
     }
 ]
