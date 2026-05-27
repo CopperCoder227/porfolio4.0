@@ -108,6 +108,7 @@
     },
     {
         "name": "Designer Tribute",
+        "favorite": true,
         "images": [
             "Pokemon0.png",
             "Pokemon1.png",
@@ -144,6 +145,7 @@
     },
     {
         "name": "My Favorite Album Covers",
+        "favorite": true,
         "images": [
             "Music.png",
             "Music2.png"
@@ -153,6 +155,7 @@
     },
     {
         "name": "Coffee Shop Website",
+        "favorite": true,
         "images": [
             "BroadwayBrew.png",
             "BroadwayBrew2.png",

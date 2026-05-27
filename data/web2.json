@@ -8,6 +8,7 @@
         "link": "https://coppercoder227.github.io/Summer-Tainment-Cite/"
     },
     {
+        "originalName": "(Sept)",
         "name": "Monthly Website Gallery",
         "images": [
             "Monthly.png"
@@ -16,7 +17,8 @@
         "link": "https://coppercoder227.github.io/MonthlyWebsiteGallery/"
     },
     {
-        "name": "Look Ma, I'm FAMOUS!",
+        "originalName": "Look Ma, I'm FAMOUS! (Oct)",
+        "name": "Leonardo Da Vinci",
         "images": [
             "Famous.png",
             "Famous2.png",
@@ -27,6 +29,7 @@
         "link": "https://coppercoder227.github.io/FamousWebsite/"
     },
     {
+        "originalName": "Halloween Animation",
         "name": "Halloween Animation",
         "images": [
             "HW-Ghost-ACT.png",
@@ -36,9 +39,23 @@
             "HW-Spidr.png"
         ],
         "bio": "Gallery showcasing world-famous landmarks with photos, locations, and historical context.",
-        "link": "https://coppercoder227.github.io/HolloweenPumpkin/"
+        "links": [
+            {
+                "label": "Ghost",
+                "url": "https://coppercoder227.github.io/SpookyGhost/"
+            },
+            {
+                "label": "Pumpkin",
+                "url": "https://coppercoder227.github.io/HolloweenPumpkin/"
+            },
+            {
+                "label": "Spider",
+                "url": "https://coppercoder227.github.io/CuteSpider/"
+            }
+        ]
     },
     {
+        "originalName": "",
         "name": "'Word Salad' JavaScript Mad Libs Website",
         "images": [
             "Story.png",
@@ -54,6 +71,7 @@
         "link": "https://coppercoder227.github.io/Mad-LibWebsite/"
     },
     {
+        "originalName": "",
         "name": "Magic8Ball App",
         "images": [
             "Meme.png",
@@ -64,6 +82,7 @@
         "link": "https://coppercoder227.github.io/Magic8Ball/"
     },
     {
+        "originalName": "",
         "name": "'What's my name?' Generator Website",
         "images": [
             "Name.png",
@@ -73,6 +92,7 @@
         "link": "https://coppercoder227.github.io/NameGen/"
     },
     {
+        "originalName": "",
         "name": "'Rock Paper Scissors' Website",
         "images": [
             "RPS.png",
@@ -83,6 +103,7 @@
         "link": "https://coppercoder227.github.io/RPS/"
     },
     {
+        "originalName": "",
         "name": "Practice With Array's: 'Random Testimonial'",
         "images": [
             "RandomTest.png"
@@ -174,6 +195,6 @@
             "ToyBird5.png"
         ],
         "bio": "_____",
-        "link": "_____"
+        "link": "https://nvlahogiannis12.github.io/Toy-Birb-Co/"
     }
 ]

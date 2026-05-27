@@ -16,19 +16,32 @@ async function loadWebCards(webNumber) {
 
 function createCard(project, webNumber) {
     const card = document.createElement('div');
-    card.className = 'card-bubble';
-
+    card.className = `card-bubble ${project.favorite ? 'favorite-card' : ''}`;
     const imagesHTML = project.images.length > 1
         ? createCarousel(project.images, webNumber)
         : `<img src="imgs/Web${webNumber}/${project.images[0]}" alt="${project.name}" class="card-image">`;
 
     card.innerHTML = `
         ${imagesHTML}
-        <div class="card-content">
-          <div class="card-title">${project.name}</div>
-          <div class="card-bio">${project.bio}</div>
-          <a href="${project.link}" target="_blank" class="card-link">View Website</a>
-        </div>
+<div class="card-content">
+  ${project.originalName ? `<h6 class="card-subtitle">${project.originalName}</h6>` : ''}
+  <div class="card-title">${project.name}</div>
+  <div class="card-bio">${project.bio}</div>
+${project.links
+            ? `
+    <div class="multi-links">
+        ${project.links.map(link => `
+            <a href="${link.url}" target="_blank" class="card-link">
+                ${link.label}
+            </a>
+        `).join('')}
+    </div>
+    `
+            : `
+    <a href="${project.link}" target="_blank" class="card-link">
+        View Website
+    </a>
+`}</div>
       `;
 
     return card;
