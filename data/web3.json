@@ -1,20 +1,7 @@
 [
     {
-        "name": "Sweets By Sammy",
-        "images": [
-            "SweetsBySammy.png",
-            "SweetsBySammy2.png",
-            "SweetsBySammy3.png",
-            "SweetsBySammy4.png",
-            "SweetsBySammy5.png",
-            "SweetsBySammy6.png",
-            "SweetsBySammy8.png"
-        ],
-        "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
-        "link": "index.html"
-    },
-    {
-        "name": "Ithaca College Guide",
+        "originalName": "College Recruitment Website",
+        "name": "Ithaca Website",
         "images": [
             "Ithaca.png",
             "Ithaca2.png",
@@ -22,10 +9,76 @@
             "Ithaca4.png"
         ],
         "bio": "Comprehensive guide to Ithaca College featuring campus tour, programs, and student life.",
-        "link": "#"
+        "link": "https://coppercoder227.github.io/college/"
     },
     {
-        "name": "Movie Database",
+        "name": "Functions Refresher",
+        "images": [
+            "Functions.png"
+        ],
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/1.01-Functions-Refresher-Lesson-Code/"
+    },
+    {
+        "name": "Arrays & Loops Refresher",
+        "images": [
+            "Array&Loop.png"
+        ],
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/ArrayRefresher/"
+    },
+    {
+        "name": "Event Handling Refresher",
+        "images": [
+            "EventDemo.png"
+        ],
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/1.03-Event-Listeners-Refresher-LESSON-code/"
+    },
+    {
+        "originalName": "JSON/ASYNC/AWAIT Project",
+        "name": "Class Schedules",
+        "images": [
+            "Classes.png",
+            "Classes2.png"
+        ],
+        "bio": "Student class scheduling tool with calendar integration and assignment tracking.",
+        "link": "https://coppercoder227.github.io/2.04---Schedule-Project/"
+    },
+    {
+        "originalName": "NJIT Project #1: Slideshow App with jQuery",
+        "name": "Deltarune Location Slideshow",
+        "images": [
+            "NJIT.png",
+            "NJIT2.png",
+            "NJIT3.png",
+            "NJIT4.png",
+            "NJIT5.png"
+        ],
+        "bio": "_____",
+        "link": "https://coppercoder227.github.io/NJIT-jQ-SlideShow-Project-Starter/"
+    },
+    {
+        "originalName": "NJIT Project #2: Movie Poster Gallery",
+        "name": "Movie Review Gallery",
+        "images": [
+            "Movie.png"
+        ],
+        "bio": "Interactive movie database with ratings, reviews, and streaming information.",
+        "link": "https://coppercoder227.github.io/MoviePosterGallery/"
+    },
+    {
+        "name": "Vue Mastery Tutorial",
+        "images": [
+            "VMSocks.png",
+            "VMSocks2.png"
+        ],
+        "bio": "Tutorial project from Vue Mastery covering the basics of Vue.js.",
+        "link": "https://coppercoder227.github.io/0_Vue_Mastery_Tutorial_Starter/"
+    },
+    {
+        "originalName": "Winter Holiday & Traditions Website",
+        "name": "Holiday Games",
         "images": [
             "Movie.png"
         ],
@@ -33,15 +86,7 @@
         "link": "#"
     },
     {
-        "name": "Class Schedule",
-        "images": [
-            "Classes.png",
-            "Classes2.png"
-        ],
-        "bio": "Student class scheduling tool with calendar integration and assignment tracking.",
-        "link": "#"
-    },
-    {
+        "originalName": "MRHS Website Design Challenge",
         "name": "Club Directory",
         "images": [
             "Club.png",
@@ -53,6 +98,36 @@
             "Club7.png"
         ],
         "bio": "Directory of school clubs and organizations with meeting times and contact information.",
-        "link": "#"
+        "link": "https://coppercoder227.github.io/GuideToThings/"
+    },
+    {
+        "originalName": "Work Based Learning Project",
+        "name": "Sweets By Sammy",
+        "images": [
+            "SweetsBySammy.png",
+            "SweetsBySammy2.png",
+            "SweetsBySammy3.png",
+            "SweetsBySammy4.png",
+            "SweetsBySammy5.png",
+            "SweetsBySammy6.png",
+            "SweetsBySammy8.png"
+        ],
+        "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
+        "link": "https://coppercoder227.github.io/SweetBySam/"
+    },
+    {
+        "originalName": "Senior Portfolio",
+        "name": "Cooper Steiner: Coding Through The Years",
+        "images": [
+            "SweetsBySammy.png",
+            "SweetsBySammy2.png",
+            "SweetsBySammy3.png",
+            "SweetsBySammy4.png",
+            "SweetsBySammy5.png",
+            "SweetsBySammy6.png",
+            "SweetsBySammy8.png"
+        ],
+        "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
+        "link": "https://coppercoder227.github.io/SweetBySam/"
     }
 ]
