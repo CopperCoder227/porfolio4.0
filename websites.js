@@ -38,9 +38,17 @@ ${project.links
     </div>
     `
             : `
+${project.link && project.link !== '#'
+                ? `
     <a href="${project.link}" target="_blank" class="card-link">
         View Website
     </a>
+    `
+                : `
+    <span class="card-link disabled-link">
+        No Link
+    </span>
+`}
 `}</div>
       `;
 

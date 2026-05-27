@@ -164,6 +164,7 @@
             "BroadwayBrew5.png"
         ],
         "bio": "A vibrant coffeehouse website designed with Broadway flair. Features menu displays and interactive reservations.",
+        "favoriteBio": "Special expanded description only shown on the favorites page.",
         "link": "https://replit.com/@CooperSteiner1/The-Broadway-Cafe"
     },
     {
