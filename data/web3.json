@@ -119,15 +119,9 @@
         "originalName": "Senior Portfolio",
         "name": "Cooper Steiner: Coding Through The Years",
         "images": [
-            "SweetsBySammy.png",
-            "SweetsBySammy2.png",
-            "SweetsBySammy3.png",
-            "SweetsBySammy4.png",
-            "SweetsBySammy5.png",
-            "SweetsBySammy6.png",
-            "SweetsBySammy8.png"
+            "Porfoilo.png"
         ],
         "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
-        "link": "https://coppercoder227.github.io/SweetBySam/"
+        "link": "https://coppercoder227.github.io/porfolio/"
     }
 ]

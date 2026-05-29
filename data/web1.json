@@ -4,7 +4,7 @@
         "images": [
             "Basic.png"
         ],
-        "bio": "Introductory web development project demonstrating basic HTML structure and formatting.",
+        "bio": "Introductory web development project demonstrating basic HTML structure, text formatting, and beginner coding concepts.",
         "link": "https://replit.com/@CooperSteiner1/InsubstantialImpoliteText"
     },
     {
@@ -15,7 +15,7 @@
             "Planet3.png",
             "Planet4.png"
         ],
-        "bio": "Interactive solar system explorer with detailed information about each planet.",
+        "bio": "Interactive solar system explorer featuring planets, space facts, and visually themed page designs.",
         "link": "https://replit.com/@CooperSteiner1/Planets"
     },
     {
@@ -23,7 +23,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Outdoor adventure themed website featuring camping activities and travel inspiration.",
+        "bio": "Nature-themed travel website focused on camping adventures, outdoor activities, and scenic destinations.",
         "link": "#"
     },
     {
@@ -31,7 +31,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Simple interactive chessboard layout created using HTML and CSS grid positioning.",
+        "bio": "CSS grid project recreating a classic chessboard layout using structured HTML and styling techniques.",
         "link": "#"
     },
     {
@@ -47,7 +47,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Spooky movie recommendation webpage inspired by classic Halloween aesthetics.",
+        "bio": "Spooky entertainment webpage showcasing Halloween movie picks with themed visuals and layouts.",
         "link": "#"
     },
     {
@@ -55,15 +55,15 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Experimentation with CSS div layouts and gradient effects.",
+        "bio": "Design experiment exploring colorful gradients, layered div structures, and modern CSS effects.",
         "link": "#"
     },
     {
-        "name": "How to... (Nav-Bar Partner Project",
+        "name": "How to... (Nav-Bar Partner Project)",
         "images": [
             "nope.png"
         ],
-        "bio": "Navigation bar design exercise exploring responsive menus and hover animations.",
+        "bio": "Collaborative navigation bar project focused on responsive menus, hover animations, and page organization.",
         "link": "#"
     },
     {
@@ -71,7 +71,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Educational website highlighting famous lighthouses across New Jersey.",
+        "bio": "Educational website highlighting notable New Jersey lighthouses with historical facts and coastal themes.",
         "link": "#"
     },
     {
@@ -79,7 +79,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Autumn themed webpage experimenting with animation effects and seasonal design.",
+        "bio": "Autumn-inspired webpage featuring animated falling leaves and seasonal visual effects.",
         "link": "#"
     },
     {
@@ -87,7 +87,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Portfolio website collecting and displaying sophomore year web design projects.",
+        "bio": "Portfolio website created to organize and showcase sophomore year coding and web design projects.",
         "link": "#"
     },
     {
@@ -95,7 +95,7 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Interactive chemistry reference featuring the first ten elements of the periodic table.",
+        "bio": "Interactive chemistry study guide featuring animated cards and facts about the first ten elements.",
         "link": "#"
     },
     {
@@ -103,11 +103,12 @@
         "images": [
             "nope.png"
         ],
-        "bio": "Cute pet themed webpage with image galleries and playful styling.",
+        "bio": "Fun pet-themed website with adorable puppy images, playful styling, and beginner-friendly layouts.",
         "link": "#"
     },
     {
-        "name": "Designer Tribute",
+        "originalName": "Designer Tribute",
+        "name": "Satoshi Tajiri - The Creator of Pokémon",
         "favorite": true,
         "images": [
             "Pokemon0.png",
@@ -117,7 +118,7 @@
             "Pokemon4.png",
             "Pokemon5.png"
         ],
-        "bio": "Tribute webpage dedicated to a featured designer with visual-focused layouts.",
+        "bio": "Tribute website dedicated to Satoshi Tajiri, showcasing the history, inspiration, and impact of Pokémon.",
         "link": "https://replit.com/@CooperSteiner1/Satoshi-Tajiri-Project"
     },
     {
@@ -125,11 +126,12 @@
         "images": [
             "MFarmMarket.png"
         ],
-        "bio": "Local farm market website with product listings and farmer information.",
+        "bio": "Community-focused farmers market website featuring fresh produce listings, vendors, and local shopping information.",
         "link": "https://replit.com/@CooperSteiner1/farmers-market"
     },
     {
-        "name": "Vacation Destination Bootstrap Website  ",
+        "originalName": "Vacation Destination Bootstrap Website",
+        "name": "Paris Travel Guide",
         "images": [
             "Paris.png",
             "Paris2.png",
@@ -140,21 +142,23 @@
             "Paris7.png",
             "Paris8.png"
         ],
-        "bio": "Travel inspired project showcasing destinations, activities, and vacation planning ideas.",
+        "bio": "Bootstrap-powered travel guide highlighting attractions, landmarks, dining, and culture throughout Paris.",
         "link": "https://replit.com/@CooperSteiner1/Place"
     },
     {
-        "name": "My Favorite Album Covers",
+        "originalName": "My Favorite Album Covers",
+        "name": "Splatoon Album Covers",
         "favorite": true,
         "images": [
             "Music.png",
             "Music2.png"
         ],
-        "bio": "Creative gallery project displaying custom album cover artwork and typography experiments.",
+        "bio": "Creative music-themed gallery displaying favorite Splatoon album covers with bold visuals and colorful layouts.",
         "link": "https://replit.com/@CooperSteiner1/Music-Album"
     },
     {
-        "name": "Coffee Shop Website",
+        "originalName": "Coffee Shop Website",
+        "name": "The Broadway Brew Cafe",
         "favorite": true,
         "images": [
             "BroadwayBrew.png",
@@ -163,7 +167,7 @@
             "BroadwayBrew4.png",
             "BroadwayBrew5.png"
         ],
-        "bio": "A vibrant coffeehouse website designed with Broadway flair. Features menu displays and interactive reservations.",
+        "bio": "Broadway-inspired cafe website featuring menu pages, reservation sections, and an energetic theater-themed design.",
         "favoriteBio": "Special expanded description only shown on the favorites page.",
         "link": "https://replit.com/@CooperSteiner1/The-Broadway-Cafe"
     },
@@ -174,7 +178,7 @@
             "MSKCC2.png",
             "MSKCC3.png"
         ],
-        "bio": "Memorial Sloan Kettering Cancer Center website redesign with modern healthcare UI.",
+        "bio": "Healthcare awareness project combining a website and brochure design focused on global cancer disparities and education.",
         "link": "https://replit.com/@CooperSteiner1/MSKCancerCenter"
     }
 ]
