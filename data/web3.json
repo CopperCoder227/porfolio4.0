@@ -16,7 +16,7 @@
         "images": [
             "Functions.png"
         ],
-        "bio": "_____",
+        "bio": "JavaScript refresher project reviewing functions, parameters, return values, and reusable coding concepts.",
         "link": "https://coppercoder227.github.io/1.01-Functions-Refresher-Lesson-Code/"
     },
     {
@@ -24,7 +24,7 @@
         "images": [
             "Array&Loop.png"
         ],
-        "bio": "_____",
+        "bio": "Practice project focused on JavaScript arrays, loops, and iteration techniques through interactive examples.",
         "link": "https://coppercoder227.github.io/ArrayRefresher/"
     },
     {
@@ -32,7 +32,7 @@
         "images": [
             "EventDemo.png"
         ],
-        "bio": "_____",
+        "bio": "Interactive JavaScript lesson demonstrating event listeners, button interactions, and user input handling.",
         "link": "https://coppercoder227.github.io/1.03-Event-Listeners-Refresher-LESSON-code/"
     },
     {
@@ -55,7 +55,7 @@
             "NJIT4.png",
             "NJIT5.png"
         ],
-        "bio": "_____",
+        "bio": "jQuery-powered slideshow project featuring locations and environments from the game Deltarune.",
         "link": "https://coppercoder227.github.io/NJIT-jQ-SlideShow-Project-Starter/"
     },
     {
@@ -73,21 +73,24 @@
             "VMSocks.png",
             "VMSocks2.png"
         ],
-        "bio": "Tutorial project from Vue Mastery covering the basics of Vue.js.",
+        "bio": "Hands-on Vue.js tutorial project exploring components, data binding, and interactive frontend development.",
         "link": "https://coppercoder227.github.io/0_Vue_Mastery_Tutorial_Starter/"
     },
     {
         "originalName": "Winter Holiday & Traditions Website",
         "name": "Holiday Games",
         "images": [
-            "Movie.png"
+            "Holiday.png",
+            "Holiday2.png",
+            "Holiday3.png"
         ],
-        "bio": "Interactive movie database with ratings, reviews, and streaming information.",
-        "link": "#"
+        "bio": "Winter holiday-themed website featuring festive games, traditions, and seasonal interactive activities.",
+        "link": "https://nvlahogiannis12.github.io/Holiday_Project/"
     },
     {
         "originalName": "MRHS Website Design Challenge",
         "name": "Club Directory",
+        "favorite": true,
         "images": [
             "Club.png",
             "Club2.png",
@@ -98,11 +101,13 @@
             "Club7.png"
         ],
         "bio": "Directory of school clubs and organizations with meeting times and contact information.",
+        "favoriteBio": "A website that worked well as  group effort. We comunicated and this wa the result. an awesome website that showcases ALL of MHS's Sports and Clubs!!",
         "link": "https://coppercoder227.github.io/GuideToThings/"
     },
     {
         "originalName": "Work Based Learning Project",
         "name": "Sweets By Sammy",
+        "favorite": true,
         "images": [
             "SweetsBySammy.png",
             "SweetsBySammy2.png",
@@ -113,15 +118,16 @@
             "SweetsBySammy8.png"
         ],
         "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
-        "link": "https://coppercoder227.github.io/SweetBySam/"
+        "favoriteBio": "A website for my cousin Sam. Shes always been a huge inspiration in my life and Im so happy i ot to repay her with this website, even if she dosent use it and its a little plain lol.""link": "https://coppercoder227.github.io/SweetBySam/"
     },
     {
         "originalName": "Senior Portfolio",
         "name": "Cooper Steiner: Coding Through The Years",
+        "favorite": true,
         "images": [
             "Porfoilo.png"
         ],
-        "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
-        "link": "https://coppercoder227.github.io/porfolio/"
+        "bio": "Personal senior portfolio website highlighting coding projects, web design growth, and development experience over the years.",
+        "favoriteBio": "ADD IN""link": "https://coppercoder227.github.io/porfolio/"
     }
 ]
