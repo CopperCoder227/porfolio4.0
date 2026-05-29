@@ -4,16 +4,18 @@
         "images": [
             "Summer-tainment.png"
         ],
-        "bio": "_____",
+        "bio": "What I did over the Summer of 2024 website, showcasing my activities and projects during the summer break.",
         "link": "https://coppercoder227.github.io/Summer-Tainment-Cite/"
     },
     {
         "originalName": "(Sept)",
         "name": "Monthly Website Gallery",
+        "favorite": true,
         "images": [
             "Monthly.png"
         ],
-        "bio": "_____",
+        "bio": "Interactive gallery project showcasing a collection of monthly-themed websites and creative layouts.",
+        "favoriteBio": "The 'Home Page' to all my monthly websites. not only is it themed to stars with oe NIghtshade from pjo (click the consolation) but its also just a cute website!",
         "link": "https://coppercoder227.github.io/MonthlyWebsiteGallery/"
     },
     {
@@ -25,12 +27,11 @@
             "Famous3.png",
             "Famous4.png"
         ],
-        "bio": "Gallery showcasing world-famous landmarks with photos, locations, and historical context.",
+        "bio": "Educational biography website exploring Leonardo da Vinci’s artwork, inventions, and lasting influence on history.",
         "link": "https://coppercoder227.github.io/FamousWebsite/"
     },
     {
-        "originalName": "Halloween Animation",
-        "name": "Halloween Animation",
+        "name": "Halloween Animations",
         "images": [
             "HW-Ghost-ACT.png",
             "HW-Ghost.png",
@@ -38,7 +39,7 @@
             "HW-Pump.png",
             "HW-Spidr.png"
         ],
-        "bio": "Gallery showcasing world-famous landmarks with photos, locations, and historical context.",
+        "bio": "Collection of Halloween-themed CSS animations featuring spooky ghosts, pumpkins, and playful spider designs.",
         "links": [
             {
                 "label": "Ghost",
@@ -55,8 +56,8 @@
         ]
     },
     {
-        "originalName": "",
-        "name": "'Word Salad' JavaScript Mad Libs Website",
+        "originalName": "Word Salad' JavaScript Mad Libs Website (Nov)",
+        "name": "'HEY BESTIE!!!!!'",
         "images": [
             "Story.png",
             "Story2.png",
@@ -67,48 +68,49 @@
             "Story7.png",
             "Story8.png"
         ],
-        "bio": "Creative writing tool that generates story ideas and plot suggestions.",
+        "bio": "Interactive Mad Libs experience where users fill in a funny custom stories using JavaScript-generated prompts.",
         "link": "https://coppercoder227.github.io/Mad-LibWebsite/"
     },
     {
-        "originalName": "",
-        "name": "Magic8Ball App",
+        "originalName": "Magic8Ball App",
+        "name": "Meme King Elmo",
         "images": [
             "Meme.png",
             "Meme2.png",
             "Meme3.png"
         ],
-        "bio": "Collection and sharing platform for popular internet memes and funny content.",
+        "bio": "JavaScript-powered Magic 8 Ball app that gives random answers and playful predictions to user questions.",
         "link": "https://coppercoder227.github.io/Magic8Ball/"
     },
     {
-        "originalName": "",
-        "name": "'What's my name?' Generator Website",
+        "originalName": "'What's my name?' Generator Website (Dec)",
+        "name": "Splatoon-Salmon Run Name Generator",
         "images": [
             "Name.png",
             "Name-Generated.png"
         ],
-        "bio": "Generate random names with customizable options for different cultures and styles.",
+        "bio": "Random name generator website that creates unique names through interactive JavaScript functionality.",
         "link": "https://coppercoder227.github.io/NameGen/"
     },
     {
-        "originalName": "",
-        "name": "'Rock Paper Scissors' Website",
+        "originalName": "'Rock Paper Scissors' Website (Jan)",
+        "name": "Ro-Sham-Bo!",
+        "favorite": true,
         "images": [
             "RPS.png",
             "RPS2.png",
             "RPS3.png"
         ],
-        "bio": "Interactive game implementation with player vs computer gameplay and score tracking.",
+        "bio": "Classic Rock Paper Scissors game with interactive gameplay, score tracking, and animated results.",
+        "favoriteBio": "Rock Paper Scissors was announced. And I jut finished 'Paper MArio and the Origami King' so the idea was there. Probably one of the hardest websites Ive made yet but also the best!",
         "link": "https://coppercoder227.github.io/RPS/"
     },
     {
-        "originalName": "",
         "name": "Practice With Array's: 'Random Testimonial'",
         "images": [
             "RandomTest.png"
         ],
-        "bio": "_____",
+        "bio": "JavaScript array practice project that cycles through randomized testimonials and user reviews.",
         "link": "https://coppercoder227.github.io/Random-Testimonial/"
     },
     {
@@ -116,11 +118,12 @@
         "images": [
             "Postcard.png"
         ],
-        "bio": "Tool to design and customize digital postcards with personal messages.",
+        "bio": "Creative postcard generator allowing users to customize digital postcards with messages and themed designs.",
         "link": "https://coppercoder227.github.io/Postcard-Generator/"
     },
     {
-        "name": "Presidential Biography Website",
+        "originalName": "'Presidential Biography Website (Feb)",
+        "name": "William Howard Taft - Presidential Biography",
         "images": [
             "Presidental.png",
             "Presidental2.png",
@@ -129,30 +132,34 @@
             "Presidental5.png",
             "Presidental6.png"
         ],
-        "bio": "Educational resource comparing presidential election data and historical information.",
+        "bio": "Educational presidential biography website featuring historical facts, timelines, and information about U.S. leaders.",
         "link": "https://coppercoder227.github.io/PresidentialBiography-main/"
     },
     {
-        "name": "To Do list Customization",
+        "originalName": "To Do list Customization",
+        "name": "Mike's To Do List",
         "images": [
             "ToDo.png",
             "ToDo2.png"
         ],
-        "bio": "Functional task management application with add, delete, and mark-complete features.",
+        "bio": "Customizable to-do list application with task management, organization tools, and interactive features.",
         "link": "https://coppercoder227.github.io/ToDoList/"
     },
     {
-        "name": "'Lucky Guess'  JS Hangman Game",
+        "originalName": "'Lucky Guess'  JS Hangman Game (Mar)",
+        "name": "Impossa-Man",
         "images": [
             "Hang.png",
             "Hang2.png",
             "Hang3.png"
         ],
-        "bio": "Interactive hangman game with word guessing and scoring.",
+        "bio": "Interactive Hangman-style word guessing game built with JavaScript and dynamic gameplay mechanics.",
         "link": "https://coppercoder227.github.io/Hangman/"
     },
     {
-        "name": "'April Wildcard Website' Project",
+        "originalName": "'April Wildcard Website' Project (Apr)",
+        "name": "Deltarune NOT Wiki",
+        "favorite": true,
         "images": [
             "Wildcard.png",
             "Wildcard2.png",
@@ -161,7 +168,8 @@
             "Wildcard5.png",
             "Wildcard6.png"
         ],
-        "bio": "____",
+        "bio": "Creative open-ended web design project experimenting with unique layouts, themes, and interactive elements.",
+        "favoriteBio": "One of my favorite websites to date, and one i still updated a bit at the start of Senior year and the end or Junior! its a bit broken because i forgot about it but its probably still my favorite website!",
         "link": "https://coppercoder227.github.io/Wildcard/"
     },
     {
@@ -170,11 +178,12 @@
             "State.png",
             "State2.png"
         ],
-        "bio": "Interactive map and information guide for all 50 US states and territories.",
+        "bio": "Interactive educational project displaying facts, information, and data about U.S. states.",
         "link": "https://coppercoder227.github.io/State-Facts-Objects-Practice/"
     },
     {
-        "name": "'Team-work makes the Dream-work'",
+        "originalName": "'Team-work makes the Dream-work' (May)",
+        "name": "Kirby & His Friends",
         "images": [
             "Kirby.png",
             "Kirby2.png",
@@ -182,10 +191,11 @@
             "Kirby4.png",
             "Kirby5.png"
         ],
-        "bio": "Kirby-themed web game with interactive gameplay and sound effects.",
+        "bio": "Kirby-themed collaborative project featuring interactive gameplay elements, animations, and team-based design.",
         "link": "https://coppercoder227.github.io/Team/"
     },
     {
+        "originalName": "(June)",
         "name": "Little Bird Toy Company'",
         "images": [
             "ToyBird.png",
@@ -194,7 +204,7 @@
             "ToyBird4.png",
             "ToyBird5.png"
         ],
-        "bio": "_____",
+        "bio": "(Worst Project Ever) Toy company website promoting playful products through colorful branding, product showcases, and engaging layouts.",
         "link": "https://nvlahogiannis12.github.io/Toy-Birb-Co/"
     }
 ]

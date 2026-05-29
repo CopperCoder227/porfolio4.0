@@ -119,6 +119,7 @@
             "Pokemon5.png"
         ],
         "bio": "Tribute website dedicated to Satoshi Tajiri, showcasing the history, inspiration, and impact of Pokémon.",
+        "favoriteBio": "Pokemon is something I hold dear to me. While I may have stolen the original project, I improved it, added new tabs, and best of all, learned how parallaxes work! ",
         "link": "https://replit.com/@CooperSteiner1/Satoshi-Tajiri-Project"
     },
     {
@@ -154,6 +155,7 @@
             "Music2.png"
         ],
         "bio": "Creative music-themed gallery displaying favorite Splatoon album covers with bold visuals and colorful layouts.",
+        "favoriteBio": "I dont know why I love Splatoon so much, but I do. Probbly because of the music. hence, the game was my inspiration for this website! ",
         "link": "https://replit.com/@CooperSteiner1/Music-Album"
     },
     {
@@ -168,7 +170,7 @@
             "BroadwayBrew5.png"
         ],
         "bio": "Broadway-inspired cafe website featuring menu pages, reservation sections, and an energetic theater-themed design.",
-        "favoriteBio": "Special expanded description only shown on the favorites page.",
+        "favoriteBio": "The Broadway Brew. Every time we stop by the one Applebees in the city, I yell 'this is the Applebees i took over' because thats this cafe's location lol!",
         "link": "https://replit.com/@CooperSteiner1/The-Broadway-Cafe"
     },
     {
