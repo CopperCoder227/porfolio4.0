@@ -118,7 +118,8 @@
             "SweetsBySammy8.png"
         ],
         "bio": "A bakery website showcasing custom confectionery creations with order management and gallery.",
-        "favoriteBio": "A website for my cousin Sam. Shes always been a huge inspiration in my life and Im so happy i ot to repay her with this website, even if she dosent use it and its a little plain lol.""link": "https://coppercoder227.github.io/SweetBySam/"
+        "favoriteBio": "A website for my cousin Sam. Shes always been a huge inspiration in my life and Im so happy i ot to repay her with this website, even if she dosent use it and its a little plain lol.",
+        "link": "https://github.com/CopperCoder227/SweetBySam"
     },
     {
         "originalName": "Senior Portfolio",
@@ -128,6 +129,7 @@
             "Porfoilo.png"
         ],
         "bio": "Personal senior portfolio website highlighting coding projects, web design growth, and development experience over the years.",
-        "favoriteBio": "ADD IN""link": "https://coppercoder227.github.io/porfolio/"
+        "favoriteBio": "https://coppercoder227.github.io/porfolio/",
+        "link": "https://coppercoder227.github.io/porfolio4.0/"
     }
 ]
