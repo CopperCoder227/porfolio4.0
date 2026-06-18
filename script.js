@@ -132,6 +132,11 @@ if (window.jQuery) {
                 return;
             }
 
+            if (window.location.protocol === 'file:') {
+                $modalBody.data('loaded', true);
+                return;
+            }
+
             $.getJSON('data/ithaca.json')
                 .done(function (data) {
                     let html = '<p><strong>' + (data.title || 'Ithaca Links') + '</strong></p>';
@@ -147,11 +152,6 @@ if (window.jQuery) {
                     $modalBody.data('loaded', true);
                 })
                 .fail(function () {
-                    $modalBody.html('<p><strong>Looking Ahead!</strong></p>' +
-                        '<p>Starting this fall, I will be attending Ithaca College in upstate New York. Once there, I will begin learning about film and the aspects of rising the ranks to eventually become a director.</p>' +
-                        '<p>As excited as I am to be starting, I do admit there is a part of me sad to leave the school I\'ve known for four years. I am excited to start this new chapter in my life and discover new passions.</p>' +
-                        '<p><a class="ithaca-link" href="https://www.ithaca.edu/" target="_blank">Ithaca Website</a></p>' +
-                        '<p><a class="ithaca-link" href="https://www.ithaca.edu/admission/undergraduate-admission/ic-connect" target="_blank">Student Login</a></p>');
                     $modalBody.data('loaded', true);
                 });
         }
