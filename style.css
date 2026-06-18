@@ -345,6 +345,24 @@ body {
     border-radius: 8px;
     margin-bottom: 1.5rem;
     display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.25s ease;
+}
+
+.future-name:hover,
+.future-name:focus {
+    background: #00c7d4;
+}
+
+.ithaca-link {
+    color: #00ffdd;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.ithaca-link:hover {
+    color: #64b5f6;
+    text-decoration: underline;
 }
 
 .future-bio {
@@ -352,6 +370,16 @@ body {
     line-height: 1.6;
     color: #333;
 }
+
+.modal {
+    z-index: 2000 !important;
+    pointer-events: auto !important;
+}
+
+.modal-backdrop {
+    display: none !important;
+}
+
 
 @media (max-width: 768px) {
     .about-section {

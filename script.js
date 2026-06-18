@@ -121,3 +121,42 @@ if (backToTopBtn) {
         });
     });
 }
+
+// ── Ithaca Modal Content Loading ─────────────────────────────────────
+if (window.jQuery) {
+    $(function () {
+        const $modalBody = $('#ithacaModalBody');
+
+        function loadIthacaLinks() {
+            if ($modalBody.data('loaded')) {
+                return;
+            }
+
+            $.getJSON('data/ithaca.json')
+                .done(function (data) {
+                    let html = '<p><strong>' + (data.title || 'Ithaca Links') + '</strong></p>';
+                    if (data.bio) {
+                        html += '<p>' + data.bio + '</p>';
+                    }
+                    if (Array.isArray(data.links)) {
+                        data.links.forEach(function (link) {
+                            html += '<p><a class="ithaca-link" href="' + link.href + '" target="_blank">' + link.label + '</a></p>';
+                        });
+                    }
+                    $modalBody.html(html);
+                    $modalBody.data('loaded', true);
+                })
+                .fail(function () {
+                    $modalBody.html('<p><strong>Looking Ahead!</strong></p>' +
+                        '<p>Starting this fall, I will be attending Ithaca College in upstate New York. Once there, I will begin learning about film and the aspects of rising the ranks to eventually become a director.</p>' +
+                        '<p>As excited as I am to be starting, I do admit there is a part of me sad to leave the school I\'ve known for four years. I am excited to start this new chapter in my life and discover new passions.</p>' +
+                        '<p><a class="ithaca-link" href="https://www.ithaca.edu/" target="_blank">Ithaca Website</a></p>' +
+                        '<p><a class="ithaca-link" href="https://www.ithaca.edu/admission/undergraduate-admission/ic-connect" target="_blank">Student Login</a></p>');
+                    $modalBody.data('loaded', true);
+                });
+        }
+
+        $('#ithacaModal').on('shown.bs.modal', loadIthacaLinks);
+        $('.future-name').on('click', loadIthacaLinks).css('cursor', 'pointer');
+    });
+}

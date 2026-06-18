@@ -151,47 +151,68 @@
         <!-- Content on left -->
         <div class="future-content">
           <h2 class="future-title">My Future At:</h2>
-          <div class="future-name">Ithaca College</div>
+          <div class="future-name" role="button" tabindex="0" data-bs-toggle="modal" data-bs-target="#ithacaModal">
+            Ithaca College</div>
           <div class="future-bio">
             <h6><b>Looking Ahead!</b>
               <br>
               Starting this fall, I will be attending Ithaca College in upstate New York!
               <br>
-              Once there, I will begin learning about fil, and the aspects of rising the ranks to eventualy become a
+              Once there, I will begin learning about film, and the aspects of rising the ranks to eventually become a
               director.
               <br>
-              As excited as I am to be starting, I do admit there is a part of me sad to leave the schoolI've known for
+              As excited as I am to be starting, I do admit there is a part of me sad to leave the school I've known for
               four years.<br>
               However, I am excited to start this new chapter in my life, and I cant wait to make new friends and
               discover new passions!<br>
               <b>Onward to Ithaca!!</b>
+            </h6>
           </div>
         </div>
-        </h6>
 
       </div>
 
-  </div>
-  </section>
+    </section>
+
+    <!-- Ithaca College Modal -->
+    <div class="modal" id="ithacaModal" tabindex="-1" aria-labelledby="ithacaModalLabel" aria-hidden="true"
+      data-bs-backdrop="false">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="ithacaModalLabel">Ithaca Links</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="ithacaModalBody">
+            <p class="text-muted">Loading Ithaca links...</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
-
-  <div class="container">
-    <p>&copy; 2026 SweetBySam Bakery</p>
-    <p>
-      <a href="https://www.instagram.com/sweetsbysammy_?igsh=MWN1c3ZvaTRtd3Jxdw%3D%3D&utm_source=qr"
-        target="_blank">Instagram</a> |
-      <a href="https://www.facebook.com/share/1EEDiZhzp2/?mibextid=wwXIfr&hpir=1&http_ref=eyJ0cyI6MTc3NTU3NTM2MzAwMCwiciI6IiJ9"
-        target="_blank">Facebook</a> |
-      <a href="index.html">Home</a> |
-      <a href="insta.html">Creations</a> |
-      <a href="buy.html">Purchase</a>
-    </p>
-  </div>
-  </footer>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2026 SweetBySam Bakery</p>
+        <p>
+          <a href="https://www.instagram.com/sweetsbysammy_?igsh=MWN1c3ZvaTRtd3Jxdw%3D%3D&utm_source=qr"
+            target="_blank">Instagram</a> |
+          <a href="https://www.facebook.com/share/1EEDiZhzp2/?mibextid=wwXIfr&hpir=1&http_ref=eyJ0cyI6MTc3NTU3NTM2MzAwMCwiciI6IiJ9"
+            target="_blank">Facebook</a> |
+          <a href="index.html">Home</a> |
+          <a href="insta.html">Creations</a> |
+          <a href="buy.html">Purchase</a>
+        </p>
+      </div>
+    </footer>
   </div>
 
   <!-- Bootstrap JavaScript Libraries -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
     integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
     crossorigin="anonymous"></script>
@@ -206,3 +227,7 @@
 </body>
 
 </html>
+
+<!-- 
+have the footers be the same across all pages on the website. it shuld say "© 2026 Cooper Steiner Portfolio" with links to all the different parts f the website smaller and bwlow it.
+-->
