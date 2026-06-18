@@ -513,6 +513,15 @@ body {
     margin: 0.25rem 0;
 }
 
+.site-footer .footer-links {
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+}
+
+.site-footer .footer-links a {
+    margin: 0 0.25rem;
+}
+
 
 
 
